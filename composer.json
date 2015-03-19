@@ -1,0 +1,23 @@
+{
+    "name": "hpkns/laravel-node-seeder",
+    "description": "Node migrations based on front-matter files",
+    "authors": [
+        {
+            "name": "Thomas Hupkens",
+            "email": "thomas@hupkens.be"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4",
+        "illuminate/support": "~5.0",
+        "symfony/yaml": "~2.6",
+        "hpkns/front-matter": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hpkns\\NodeSeeder\\" : "src"
+        }
+    },
+    "minimum-stability": "stable"
+}
