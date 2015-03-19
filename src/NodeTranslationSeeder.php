@@ -1,4 +1,4 @@
-<?php namespace Hpkns\NodeSeeder;
+<?php namespace Hpkns\Seeder;
 
 use Symfony\Component\Yaml\Yaml;
 

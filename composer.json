@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Hpkns\\NodeSeeder\\" : "src"
+            "Hpkns\\Seeder\\" : "src/"
         }
     },
     "minimum-stability": "stable"
